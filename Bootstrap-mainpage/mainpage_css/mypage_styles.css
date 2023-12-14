@@ -1,0 +1,25 @@
+.homepage{
+    background-image: url(../assets/img/mountainbackground.png);
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.link{
+    padding-bottom: 5px;
+    color: rgba(0, 0, 0, 0.8)
+}
+
+.link:hover{
+    font-size: 102%;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
